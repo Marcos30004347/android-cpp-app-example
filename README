@@ -14,4 +14,4 @@ To build you need:
 
 
 Notes:
-Avaliable Android libraries can be located in the NDK by $ANDROID_NDK/platforms/android-<api-level>/arch-<architecture>/usr/lib
+Avaliable Android libraries can be located at $ANDROID_NDK/platforms/android-<api-level>/arch-<architecture>/usr/lib

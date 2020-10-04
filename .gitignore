@@ -1,0 +1,4 @@
+.gradle/
+android-cpp-app/build/
+android-cpp-app/.cxx/
+android-cpp-app/notes

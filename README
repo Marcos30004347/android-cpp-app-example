@@ -1,16 +1,16 @@
 To build you need:
 
-1. install Android SDK and the Android NDK
+1. Install the Android SDK and the Android NDK
 
-2. Set ANDROID_SDK_ROOT env variable to the path where the Android SDK was installed
+2. Set env var ANDROID_SDK_ROOT to be the path where the Android SDK was installed
 (most commom in Ubuntu is ~/Android/Sdk)
 
-3. Set ANDROID_NDK env variable to the path where the Android NDK was installed
+3. Set env var ANDROID_NDK to be the path where the Android NDK was installed
 
-4. Accept Licences:
+4. Accept SDK Licenses if you already didn't:
     $ANDROID_SDK_ROOT/tools/bin/sdkmanager --licenses
 
-5. Run from the root of the repository ./gradlew assembleDebug
+5. Run ./gradlew assembleDebug
 
 
 Notes:
